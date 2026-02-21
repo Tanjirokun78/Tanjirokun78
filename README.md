@@ -1,35 +1,24 @@
 👋 Salut, moi c’est Tanjiro
 
 💻 Développeur autodidacte
-🏠 J’apprends et je code à la maison
-🚀 Toujours en train d’améliorer mes compétences
+🏠 J’apprends et je code depuis chez moi
+🚀 En progression constante
 
-🧠 À propos de moi
+🧑‍💻 À propos de moi:
+Je suis un développeur passionné qui apprend en autodidacte.
+Je construis des projets pour progresser chaque jour et améliorer mes compétences.
 
-🎓 Autodidacte passionné par le développement
+🔥 Centres d’intérêt:
+- 🍥 Anime & Manga
+- 🎮 Jeux vidéo
+- 🔐 Cybersécurité
+- 💻 Développement & technologie
 
-🔐 Intéressé par la cybersécurité
+🛠️ Compétences en cours d’apprentissage:
+- 🌐 Développement web
+- 🐍 Python / ⚡ JavaScript
+- 🔒 Bases de la cybersécurité
+- 🧠 Logique & résolution de problèmes
 
-🎮 Fan de jeux vidéo
-
-🍥 Passionné d’anime & manga
-
-📚 J’apprends tous les jours pour devenir meilleur
-
-🛠️ Ce que j’apprends en ce moment
-
-💻 Programmation (JavaScript / Python / etc.)
-
-🌐 Développement web
-
-🔒 Bases en cybersécurité
-
-🎯 Objectif
-
-Devenir un développeur compétent et travailler dans la tech 🚀
-
-📫 Me contacter
-
-💬 Discord : tonpseudo
-
-🌍 GitHub : https://github.com/ton-username
+🎯 Objectif:
+Devenir un développeur solide dans la tech et continuer à apprendre sans jamais m’arrêter 🚀
