@@ -1,10 +1,10 @@
-👋 Salut, moi c’est Imad
-
-💻 Développeur autodidacte
-🏠 J’apprends et je code depuis chez moi
-🚀 En progression constante
+👋 Salut, moi c’est Imad,
+- 💻 Développeur autodidacte
+- 🏠 J’apprends et je code depuis chez moi
+- 🚀 En progression constante
 
 🧑‍💻 À propos de moi:
+
 Je suis un développeur passionné qui apprend en autodidacte.
 Je construis des projets pour progresser chaque jour et améliorer mes compétences.
 
