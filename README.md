@@ -1,4 +1,4 @@
-👋 Salut, moi c’est Tanjiro
+👋 Salut, moi c’est Imad
 
 💻 Développeur autodidacte
 🏠 J’apprends et je code depuis chez moi
