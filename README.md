@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Salut, moi c’est Tanjiro
 
-<!--
-**Tanjirokun78/Tanjirokun78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Développeur autodidacte
+🏠 J’apprends et je code à la maison
+🚀 Toujours en train d’améliorer mes compétences
 
-Here are some ideas to get you started:
+🧠 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Autodidacte passionné par le développement
+
+🔐 Intéressé par la cybersécurité
+
+🎮 Fan de jeux vidéo
+
+🍥 Passionné d’anime & manga
+
+📚 J’apprends tous les jours pour devenir meilleur
+
+🛠️ Ce que j’apprends en ce moment
+
+💻 Programmation (JavaScript / Python / etc.)
+
+🌐 Développement web
+
+🔒 Bases en cybersécurité
+
+🎯 Objectif
+
+Devenir un développeur compétent et travailler dans la tech 🚀
+
+📫 Me contacter
+
+💬 Discord : tonpseudo
+
+🌍 GitHub : https://github.com/ton-username
